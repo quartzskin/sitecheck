@@ -4,7 +4,7 @@ A small monitor for sites you own. It checks the TLS certificate (expiry, issuer
 
 Python 3.12+ and the standard library only. Developed on 3.14, Windows.
 
-![sitecheck window with demo data](docs/station.png)
+![sitecheck window with demo data](docs/window.png)
 
 ## Use
 
